@@ -12,4 +12,7 @@ public class bai_1 {
         double pi = 3.14;
         System.out.printf("%.3f %.3f", (2*pi*r), (pi*r*r));
     }
+
 }
+sout = System.out.print
+main = public static void main(String[] args){}
