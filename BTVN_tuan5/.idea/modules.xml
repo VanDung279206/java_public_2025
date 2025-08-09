@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/btvn/bai1/bai1.iml" filepath="$PROJECT_DIR$/btvn/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btvn/baiTapVeNha/bai1_baiTapVeNha.iml" filepath="$PROJECT_DIR$/btvn/baiTapVeNha/bai1_baiTapVeNha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btvn/bai2/bai2.iml" filepath="$PROJECT_DIR$/btvn/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btvn/baiTapVeNha/bai2_baiTapVeNha/bai2_baiTapVeNha.iml" filepath="$PROJECT_DIR$/btvn/baiTapVeNha/bai2_baiTapVeNha/bai2_baiTapVeNha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiTapTrenLop/baiTapTrenLop.iml" filepath="$PROJECT_DIR$/baiTapTrenLop/baiTapTrenLop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btvn/btvn.iml" filepath="$PROJECT_DIR$/btvn/btvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btvn_tuan5.iml" filepath="$PROJECT_DIR$/btvn_tuan5.iml" />
+    </modules>
+  </component>
+</project>
